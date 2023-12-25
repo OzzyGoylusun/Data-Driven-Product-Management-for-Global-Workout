@@ -25,7 +25,12 @@ This data analysis project is intended to conduct a market analysis **in Python*
 
 ### Data Sources
 
-The primary dataset used for this analysis is the "workout.csv"* file, containing detailed information about each award winner up to date ever since the Prize was established.
+There were four fundamental datasets leveraged for this analysis as follows:
+
+- workout.csv
+- three_keywords.csv
+- workout_global.csv
+- geo_three_keywords.csv
 
 
 ### Tools
