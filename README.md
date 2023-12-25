@@ -92,5 +92,6 @@ The critical analysis results are summarised as follows:
 1. [DataCamp](https://app.datacamp.com/)
 2. [Python-Pandas: Use of Stack() Function](https://sparkbyexamples.com/pandas/pandas-stack-function/)
 3. [Python-Pandas: DateTime Conversion](https://stackoverflow.com/questions/30405413/pandas-extract-year-from-datetime-dfyear-dfdate-year-is-not-working)
-4. [Seaborn Library: Setting Background Theme for Graphs](https://seaborn.pydata.org/generated/seaborn.set_style.html)
-5. [Seaborn Library: Setting Colour Palette for Graphs](https://seaborn.pydata.org/generated/seaborn.color_palette.html)
+4. [Python-Pandas: Manipulation of DateTime into Desired String](https://stackoverflow.com/questions/50188123/remove-days-from-pandas-datetimeindex)
+5. [Seaborn Library: Setting Background Theme for Graphs](https://seaborn.pydata.org/generated/seaborn.set_style.html)
+6. [Seaborn Library: Setting Colour Palette for Graphs](https://seaborn.pydata.org/generated/seaborn.color_palette.html)
