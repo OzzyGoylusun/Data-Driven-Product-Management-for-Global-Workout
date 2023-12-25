@@ -18,7 +18,7 @@ This data analysis project in Python is intended to conduct a market analysis to
 - Identifying most popular workout type in Philippines and Singapore.
 
 <p align="center">
-  <img src="https://github.com/OzzyGoylusun/Python.-Conducting-Market-Analysis-of-Global-Workout-Trends/blob/main/Visuals/Home%20Workout.jpeg"
+  <img src="https://github.com/OzzyGoylusun/Python.-Conducting-Market-Analysis-of-Global-Workout-Trends/blob/main/Visuals/Yoga%20Workout.jpeg"
  alt="Various Workout Types">
 </p>
 
