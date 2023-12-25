@@ -63,7 +63,7 @@ Depending upon Google Trends and also YouTube keyword searches in niche instance
 The critical analysis results are summarised as follows:
 
 1. Interest in workouts tends to be rather seasonal, spiking at the beginning of each year due to presumably people's part of New Year resolutions.
-  - However, there is an anomaly observed in year 2020, with another spike in interest in workouts shortly following the COVID announcement - in **April 2020**
+  - However, there is an anomaly observed in year 2020, with another but more powerful spike in global interest in workouts, shortly following the COVID announcement - in **April 2020**
 
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Data-Driven-Product-Management-for-Global-Workout/blob/main/Visuals/Global%20Interest%20in%20Workouts.png" alt="Global Interest in Workouts">
