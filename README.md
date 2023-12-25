@@ -11,21 +11,19 @@
 ### Project Overview
 ---
 
-This data analysis project is intended to conduct a market analysis **in Python** to assist a fitness studio based in Philippines with:
+This data analysis project in Python is intended to conduct a market analysis to assist a fitness studio based in Philippines with:
 
-- Discovering global workout trends for the timeframe between mid-March 2018 and mid-March 2023
-- Gauging demand
-- Creating unique new digital products and services
-
+- Assessing global demand for workout for the timeframe between mid-March 2018 and mid-March 2023.
+- Discovering top 3 fitness keywords searched that generated most interest for workout during various time periods.
+- Gauging the split of interest in these three keywords by Philippines and its far/near neighbouring countries, including Middle East.
+- Identifying most popular workout type in Philippines and Singapore.
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Data-Driven-Product-Management-for-Global-Workout/blob/main/Visuals/Various%20Workout%20Types.png"
  alt="Various Workout Types">
 </p>
 
-
-
-
+The main goal of these activities is to enable the firm to create unique new digital products and services for potential users informed by a data-driven product management strategy.
 
 ### Data Sources
 
