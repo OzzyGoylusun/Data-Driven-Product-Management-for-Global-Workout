@@ -97,10 +97,10 @@ The critical analysis results are summarised as follows:
 
 Based on the analysis, I recommend the following actions:
 
-- Invest
-- 
-- 
-
+- Invest human and financial capital to devise a data-driven product management strategy.
+- Launch marketing communications campaigns in the workout type of **Zumba** designed to alter potential users' behaviour towards visiting the firm's fitness studios.
+- Develop products and services designed to interact with users, resistant to leave their homes, in their other areas of workout interest.
+- Continue to undertake data researches of similar type every 6 months to stay abreast of new developments in the industry.
 
 ### Limitations
 
