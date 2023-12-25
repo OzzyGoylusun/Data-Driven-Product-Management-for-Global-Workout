@@ -1,4 +1,4 @@
-# Identification of Global Workout Trends and Sought-After Training Types
+# Identification of Global Workout Trends and Popular Training Types
 
 
 ## Table of Contents
