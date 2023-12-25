@@ -46,8 +46,8 @@ Depending upon Google Trends and also YouTube keyword searches in niche instance
 1.  How does the trend of global demand for workout appear for the timeframe between mid-March 2018 and mid-March 2023?
   - During this period, in which month-year was this demand highest on average?
 
-2.  Which of these three keywords - *gym workout*, *home workout* and *home gym*, generated most interest in 2020 and during 2022-2023 separately? 
-3.  What are the top 20 countries with the highest interest in workout
+2.  Which of these three keywords - *gym workout*, *home workout* and *home gym*, generated most interest in 2020 and also during 2022-2023 separately? 
+3.  What are the top 20 countries with the highest interest in workout, hinging on this keyword search?
 4.  XX
 5.  
 
