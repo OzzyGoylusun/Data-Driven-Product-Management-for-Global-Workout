@@ -11,7 +11,10 @@
 ### Project Overview
 ---
 
-This data analysis project conducted via **Python** is intended to identify undiscovered patterns by exploring some intriguing Nobel Prize winner data. 
+This data analysis project is intended to conduct a market analysis **in Python** to assist a fitness studio based in Philippines with:
+
+- Ident
+
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.-Identifying-and-Visualising-Nobel-Prize-Winners/blob/main/Nobel_Prize.png"
@@ -38,12 +41,15 @@ Only *the nobel_dataset.csv* dataset was first inspected and then imported into 
 
 ### Exploratory Data Analysis
 
-EDA involved exploring XXX data to answer key questions, such as:
+Depending upon Google Trends and also YouTube keyword searches in niche instances, EDA aimed at answering some key questions, such as:
 
-1.  
+1.  How does the trend of global demand for workout appear for the timeframe between mid-March 2018 and mid-March 2023?
+  - During this period, in which month-year was this demand highest on average?
+
 2.  
 3.  
-4.  
+4.  XX
+5.  
 
 
 ### Data Analysis
