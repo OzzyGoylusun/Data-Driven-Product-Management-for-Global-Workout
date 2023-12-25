@@ -1,4 +1,4 @@
-# Data-Driven-Product-Management-for-Global-Workout
+# Identification of Global Workout Trends for Discovery of Sought-After Training Programs
 
 
 ## Table of Contents
@@ -17,7 +17,7 @@ This data analysis project is intended to conduct a market analysis **in Python*
 
 
 <p align="center">
-  <img src="https://github.com/OzzyGoylusun/Python.-Identifying-and-Visualising-Nobel-Prize-Winners/blob/main/Nobel_Prize.png"
+  <img src=""
  alt="Alfred Nobel">
 </p>
 
@@ -25,7 +25,7 @@ This data analysis project is intended to conduct a market analysis **in Python*
 
 ### Data Sources
 
-The dataset used for this analysis is the *"nobel_dataset.csv"* file, containing detailed information about each award winner up to date ever since the Prize was established.
+The primary dataset used for this analysis is the "workout.csv"* file, containing detailed information about each award winner up to date ever since the Prize was established.
 
 
 ### Tools
