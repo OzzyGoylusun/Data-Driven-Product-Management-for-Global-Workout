@@ -17,7 +17,6 @@ This data analysis project conducted via **Python** is intended to identify undi
  alt="Alfred Nobel">
 </p>
 
-Made available by the Nobel Foundation, the analysed data includes all prize winners from 1901 to 2023. In this regard, awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. 
 
 
 ### Data Sources
@@ -27,7 +26,7 @@ The dataset used for this analysis is the *"nobel_dataset.csv"* file, containing
 ### Tools
 
 - [Anaconda Navigator: ](https://www.anaconda.com/download)
-  - To access the Jupyter Notebook
+  - To access the Jupyter Notebook for **Python**
 
 
 ### Data Preparation
