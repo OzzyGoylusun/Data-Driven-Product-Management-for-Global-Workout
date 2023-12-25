@@ -1,11 +1,12 @@
 # Data-Driven-Product-Management-for-Global-Workout
 
-# Python- Identifying Hidden Patterns and Visualising All Nobel Prize Winners
 
 ## Table of Contents
 
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Findings](#findings)
+- [Recommendations](#recommendations)
+  
 
 ### Project Overview
 ---
@@ -22,6 +23,7 @@ This data analysis project conducted via **Python** is intended to identify undi
 ### Data Sources
 
 The dataset used for this analysis is the *"nobel_dataset.csv"* file, containing detailed information about each award winner up to date ever since the Prize was established.
+
 
 ### Tools
 
@@ -76,6 +78,7 @@ The critical analysis results are summarised as follows:
 
 4. 
 
+
 ### Recommendations
 
 
@@ -86,7 +89,8 @@ The critical analysis results are summarised as follows:
 
 ### References
 
-1. X
-2. XX
-3. [Seaborn: Setting Background Theme for Graphs](https://seaborn.pydata.org/generated/seaborn.set_style.html)
-4. [Seaborn: Setting Colour Palette for Graphs](https://seaborn.pydata.org/generated/seaborn.color_palette.html)
+1. [DataCamp](https://app.datacamp.com/)
+2. [Python-Pandas: Use of Stack() Function](https://sparkbyexamples.com/pandas/pandas-stack-function/)
+3. [Python-Pandas: DateTime Conversion](https://stackoverflow.com/questions/30405413/pandas-extract-year-from-datetime-dfyear-dfdate-year-is-not-working)
+4. [Seaborn Library: Setting Background Theme for Graphs](https://seaborn.pydata.org/generated/seaborn.set_style.html)
+5. [Seaborn Library: Setting Colour Palette for Graphs](https://seaborn.pydata.org/generated/seaborn.color_palette.html)
