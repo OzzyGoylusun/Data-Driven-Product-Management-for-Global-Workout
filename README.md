@@ -1,5 +1,4 @@
-# Identification of Global Workout Trends and Popular Training Types
-
+# Conducting Market Analysis of Global Workout Trends 
 
 ## Table of Contents
 
