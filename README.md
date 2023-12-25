@@ -63,7 +63,7 @@ Depending upon Google Trends and also YouTube keyword searches in niche instance
 The critical analysis results are summarised as follows:
 
 1. Interest in workouts tends to be rather seasonal, spiking at the beginning of each year, presumably due to people's part of New Year resolutions.
-  - However, there is an anomaly observed in year 2020, with another but more powerful spike in global interest in workouts, shortly following the COVID announcement - in **April 2020**
+  - However, there is an anomaly observed in year 2020, with another but more powerful spike in global interest in workouts, shortly following the COVID announcement - in **April 2020**.
 
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Data-Driven-Product-Management-for-Global-Workout/blob/main/Visuals/Global%20Interest%20in%20Workouts.png" alt="Global Interest in Workouts">
@@ -75,13 +75,13 @@ The critical analysis results are summarised as follows:
 <img src="https://github.com/OzzyGoylusun/Data-Driven-Product-Management-for-Global-Workout/blob/main/Visuals/Interest%20in%20Type%20of%20Global%20Workouts.png" alt="Global Interest in Type of Workouts">
 </p>
 
-3. **United States** in relative terms showed the highest interest in workouts, and **Philippines** globally ranked **the 7th spot**, while almost half of the top 20 countries turned out to be based in Middle East or South Asia.
+3. **United States** in relative terms showed the highest interest in workouts, and **Philippines** globally ranked **the 7th spot**, while almost half of the top 20 countries turned out to be based in Middle East or South Asia (MESA).
 
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Data-Driven-Product-Management-for-Global-Workout/blob/main/Visuals/Interest%20in%20Workout%20by%20Country.png" alt="Interest in Workout by Country">
 </p>
 
-
+4. It was fairly interesting to note that, among the other prominent MESA countries in rankings, Philippines came out on top for the population's interest in **home workout**. Nevertheless, the same country ranked the last spot when comes to interest in **home gym**
 
 
 ### Recommendations
@@ -94,7 +94,7 @@ The critical analysis results are summarised as follows:
 
 ### References
 
-1. [DataCamp](https://app.datacamp.com/)
+1. [DataCamp: Project Source, Insights Extraction and Code Enhancement Work](https://app.datacamp.com/)
 2. [Python-Pandas: Use of Stack() Function](https://sparkbyexamples.com/pandas/pandas-stack-function/)
 4. [Python-Pandas: DateTime Conversion](https://stackoverflow.com/questions/30405413/pandas-extract-year-from-datetime-dfyear-dfdate-year-is-not-working)
 5. [Python-Pandas: Manipulation of DateTime into Desired String](https://stackoverflow.com/questions/50188123/remove-days-from-pandas-datetimeindex)
