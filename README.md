@@ -41,7 +41,9 @@ There were four fundamental datasets leveraged for this analysis as follows:
 
 ### Data Preparation
 
-Only *the nobel_dataset.csv* dataset was first inspected and then imported into a Pandas DataFrame to begin conducting the exploratory data analysis work:
+- Found in the *Datasets* folder, all datasets were first inspected and then loaded into various Pandas DataFrames in the appropriate sections of the code.
+- During inspection, duplicated, corrupt and missing aspects of the data were identified.
+- Before loading any file into DataFrames, the code was written to pre-emptively handle all problematic parts in the datasets.
 
 
 ### Exploratory Data Analysis
@@ -49,7 +51,7 @@ Only *the nobel_dataset.csv* dataset was first inspected and then imported into 
 Depending upon Google Trends and also YouTube keyword searches in niche instances, EDA aimed at answering some key questions, such as:
 
 1.  How does the trend of global demand for workout appear for the timeframe between mid-March 2018 and mid-March 2023?
-  - During this period, in which month-year was this demand highest on average?
+  - During this period, in which month-year was this demand also highest on average?
 
 2.  Which of these three keywords - *gym workout*, *home workout* and *home gym*, generated most interest in 2020 and also during 2022-2023 separately? 
 3.  What are the top 20 countries with the highest interest in workout, which hinges on this keyword search?
