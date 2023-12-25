@@ -94,7 +94,7 @@ The critical analysis results are summarised as follows:
 
 ### References
 
-1. [DataCamp: Project Source, Insights Extraction and Code Enhancement Work](https://app.datacamp.com/)
+1. [DataCamp: Project Source](https://app.datacamp.com/)
 2. [Python-Pandas: Use of Stack() Function](https://sparkbyexamples.com/pandas/pandas-stack-function/)
 4. [Python-Pandas: DateTime Conversion](https://stackoverflow.com/questions/30405413/pandas-extract-year-from-datetime-dfyear-dfdate-year-is-not-working)
 5. [Python-Pandas: Manipulation of DateTime into Desired String](https://stackoverflow.com/questions/50188123/remove-days-from-pandas-datetimeindex)
