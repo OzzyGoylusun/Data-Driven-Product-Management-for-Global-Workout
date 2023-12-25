@@ -48,8 +48,8 @@ Depending upon Google Trends and also YouTube keyword searches in niche instance
 
 2.  Which of these three keywords - *gym workout*, *home workout* and *home gym*, generated most interest in 2020 and also during 2022-2023 separately? 
 3.  What are the top 20 countries with the highest interest in workout, which hinges on this keyword search?
-4.  What is the breakdown of the three workout keywords for certain Middle Eastern and South Asian countries, including Philippines and Singapore?
-5.  Based on YouTube keyword searches, 
+4.  What is the breakdown of the three workout keywords for certain Middle Eastern and South Asian countries (aka. MESA), including Philippines and Singapore?
+5.  Based on YouTube keyword searches, which workout type (e.g., yoga, weight lifting) generated highest interest in Philippines during the timeframe at hand?
 
 
 ### Data Analysis
