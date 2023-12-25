@@ -62,9 +62,12 @@ Depending upon Google Trends and also YouTube keyword searches in niche instance
 
 The critical analysis results are summarised as follows:
 
-1. 
+1. Interest in workouts tends to be rather seasonal, spiking at the beginning of each year due to presumably people's part of New Year resolutions.
+  - However, there is an anomaly observed in year 2020, with another spike in interest in workouts shortly following the COVID announcement - in **April 2020**
+
+
    
-2. 
+3. 
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Hidden-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Trend%20of%20US-born%20Winners%20per%20Decade.png" alt="Trend of US-born Winners per Decade">
 </p>
