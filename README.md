@@ -97,7 +97,7 @@ The critical analysis results are summarised as follows:
 
 ### Limitations
 
-
+All this data analysis work hinges on the datasets made available by DataCamp. By consequence, the accuracy of the findings and proposed suggestions is inherently bound to the integrity of such data.
 
 ### References
 
