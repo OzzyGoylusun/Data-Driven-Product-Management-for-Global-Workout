@@ -23,7 +23,7 @@ This data analysis project in Python is intended to conduct a market analysis to
  alt="Various Workout Types">
 </p>
 
-The main goal of these activities is to enable the firm to create unique new digital products and services for potential users informed by a data-driven product management strategy.
+The main goal of these activities is to enable the firm to create unique new digital products and services for its existing customers and potential users informed by a data-driven product management strategy.
 
 ### Data Sources
 
