@@ -81,7 +81,7 @@ The critical analysis results are summarised as follows:
 <img src="https://github.com/OzzyGoylusun/Data-Driven-Product-Management-for-Global-Workout/blob/main/Visuals/Interest%20in%20Workout%20by%20Country.png" alt="Interest in Workout by Country">
 </p>
 
-4. It was fairly interesting to note that, among the other prominent MESA countries in rankings, Philippines came out on top for the population's interest in **home workout**. Nevertheless, the same country ranked the last spot when comes to interest in **home gym**
+4. It was fairly interesting to note that, among the other prominent MESA countries in rankings, Philippines came out on top for the population's interest in **home workout**. Nevertheless, the same country ranked the last spot when comes to interest in **home gym**.
 
 
 ### Recommendations
