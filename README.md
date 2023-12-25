@@ -1,4 +1,4 @@
-# Identification of Global Workout Trends for Discovery of Sought-After Training Programs
+# Identification of Global Workout Trends and Sought-After Training Types
 
 
 ## Table of Contents
@@ -13,13 +13,17 @@
 
 This data analysis project is intended to conduct a market analysis **in Python** to assist a fitness studio based in Philippines with:
 
-- Ident
+- Discovering global workout trends for the timeframe between mid-March 2018 and mid-March 2023
+- Gauging demand
+- Creating unique new digital products and services
 
 
 <p align="center">
-  <img src=""
- alt="Alfred Nobel">
+  <img src="https://github.com/OzzyGoylusun/Data-Driven-Product-Management-for-Global-Workout/blob/main/Visuals/Various%20Workout%20Types.png"
+ alt="Various Workout Types">
 </p>
+
+
 
 
 
