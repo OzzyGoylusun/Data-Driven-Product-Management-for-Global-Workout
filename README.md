@@ -95,6 +95,11 @@ The critical analysis results are summarised as follows:
 
 ### Recommendations
 
+Based on the analysis, I recommend the following actions:
+
+- Invest
+- 
+- 
 
 
 ### Limitations
