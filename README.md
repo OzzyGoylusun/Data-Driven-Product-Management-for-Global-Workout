@@ -37,13 +37,12 @@ Only *the nobel_dataset.csv* dataset was first inspected and then imported into 
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the Nobel Prize data to answer key questions, such as:
+EDA involved exploring XXX data to answer key questions, such as:
 
-1.  Which has been the most commonly awarded gender and top birth country up to date?
-2.  What has been the proportion of US-born winners per decade?
-3.  What has been the proportion of female laureates per decade and category?
-4.  Who was the first woman to receive a Nobel Prize, and in what category?
-5.  Which individuals/organisations have won the Prize multiple times?
+1.  
+2.  
+3.  
+4.  
 
 
 ### Data Analysis
@@ -67,23 +66,28 @@ top_birth_country = nobel_winners_df["birth_country"].value_counts().reset_index
 
 The critical analysis results are summarised as follows:
 
-1. The most commonly awarded gender and top birth country of the award winners turn out to be **Male** and **the United States of America** respectively.
+1. 
    
-2. The proportion of **US-born award winners** till 2000 was in a gradual uptrend, peaking at slightly higher than **the 0.4 ratio**, before dipping by nearly **25%** during early 2000s:
+2. 
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Hidden-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Trend%20of%20US-born%20Winners%20per%20Decade.png" alt="Trend of US-born Winners per Decade">
 </p>
   
-3. **Female award winners** have almost entirely dominated the disciplines of **Peace and Literature** as of the 2000s:
-<p align="center">
-<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Hidden-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Trend%20of%20Female%20Winners%20per%20Decade%20and%20Category.png" alt="Trend of Female Winners per Decade and Category">
-</p>
+3. 
 
-4. **Marie Curie**, née Sklodowska was the first woman to receive a Nobel Prize in the category of **Physics**.
+4. 
+
+### Recommendations
+
 
 
 ### Limitations
 
-The presumption is that the dataset provided by DataCamp encompasses all Nobel Prize winners up to date.
+
 
 ### References
+
+1. X
+2. XX
+3. [Seaborn: Setting Background Theme for Graphs](https://seaborn.pydata.org/generated/seaborn.set_style.html)
+4. [Seaborn: Setting Colour Palette for Graphs](https://seaborn.pydata.org/generated/seaborn.color_palette.html)
