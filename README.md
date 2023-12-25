@@ -83,7 +83,7 @@ The critical analysis results are summarised as follows:
 <img src="https://github.com/OzzyGoylusun/Data-Driven-Product-Management-for-Global-Workout/blob/main/Visuals/Global%20Interest%20in%20Workouts.png" alt="Global Interest in Workouts">
 </p>
  
-2. During the **peak COVID 2020** period, **the home workouts** had stood out most as the most popular workout trend, whereas there was subsequently a global shift in trend towards **the gym workouts** from 2022 onwards.
+2. During the **peak COVID 2020** period, **the home workouts** had stood out as the most popular workout trend, whereas there was subsequently a global shift in trend towards **the gym workouts** from 2022 onwards.
 
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Data-Driven-Product-Management-for-Global-Workout/blob/main/Visuals/Interest%20in%20Type%20of%20Global%20Workouts.png" alt="Global Interest in Type of Workouts">
