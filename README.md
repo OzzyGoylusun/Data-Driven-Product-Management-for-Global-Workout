@@ -62,13 +62,13 @@ Depending upon Google Trends and also YouTube keyword searches in niche instance
 
 While inspecting datasets that include multiple categorical variables, I realised that if I were to transpose those cat variables from columns into rows, it would help tremendously with my next steps for the exploratory data analysis work.
 
-Hence, I discovered and decided to resort to a function, called **stack()**, to achieve that.
+Hence, I decided to resort to a function, called **stack()**, to achieve this task:
 
 ```python
 df = file.set_index('Week').stack().reset_index()
 ```
 
-Prior to that, I had needed to set the index to our 'Week' column so that I would be able to also group each of these three keywords by the datetime parameter.
+Prior to that, I had needed to set the index to our 'Week' column so that I would be able to also group each of these three keywords by the datetime parameter without forfeiting the time parameter.
 
 ### Findings
 
