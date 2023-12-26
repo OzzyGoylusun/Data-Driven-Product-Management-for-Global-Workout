@@ -43,7 +43,7 @@ There were four fundamental datasets leveraged for this analysis:
 ### Data Preparation
 
 - Found in the *Datasets* folder, all datasets were first inspected and then loaded into various Pandas DataFrames in the appropriate sections of the code.
-- During inspection, duplicated, corrupt and missing aspects of the data were identified.
+- During inspection, various duplicated, corrupt and missing aspects of the data were identified.
 - Before loading any file into DataFrames, the code was written to pre-emptively handle all problematic parts in the datasets.
 
 
