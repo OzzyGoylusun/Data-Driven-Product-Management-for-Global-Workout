@@ -102,7 +102,7 @@ Based on the analysis, I recommend the following actions:
 
 - Invest human and financial capital to devise a data-driven product management strategy.
 - Launch marketing communications campaigns, particularly built on the theme **Zumba**, in order to alter potential users' behaviour towards visiting the firm's fitness studios.
-- Develop products and services designed to interact with users, resistant to leave their homes, in their other areas of workout interest.
+- Consider **Zumba** and **Yoga** as the pilot content while developing products and services designed to more intelligently interact with users.
 - Continue to undertake data researches of similar type every 6 months to stay abreast of new developments in the industry.
 
 ### Limitations
