@@ -14,7 +14,7 @@ This data analysis project in Python is intended to conduct a market analysis to
 
 - Assessing global demand for workout for the timeframe between mid-March 2018 and mid-March 2023.
 - Exploring top 3 fitness keywords searched that generated most interest for workout during various time periods.
-- Gauging the split of interest in these three keywords by Philippines and its far/near neighbouring countries, including Middle East.
+- Gauging the split of interest in these three keywords by Philippines and its far/near neighbouring countries, including in Middle East.
 - Identifying most popular workout type in Philippines and Singapore.
 
 <p align="center">
