@@ -60,7 +60,7 @@ Depending upon Google Trends and also YouTube keyword searches in niche instance
 
 ### Data Analysis
 
-While inspecting datasets that include multiple categorical variables, I realised that if I were to transpose those cat variables from columns into rows, it would help tremendously with my next step exploratory data analysis work.
+While inspecting datasets that include multiple categorical variables, I realised that if I were to transpose those cat variables from columns into rows, it would help tremendously with my next steps for the exploratory data analysis work.
 
 Hence, I discovered and decided to resort to a function, called **stack()**, to achieve that.
 
