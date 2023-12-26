@@ -52,8 +52,6 @@ There were four fundamental datasets leveraged for this analysis:
 Depending upon Google Trends and also YouTube keyword searches in niche instances, EDA aimed at answering some key questions, such as:
 
 1.  How does the trend of global demand for workout appear for the timeframe between mid-March 2018 and mid-March 2023?
-  - During this period, in which month-year was this demand also highest on average?
-
 2.  Which of these three keywords - *gym workout*, *home workout* and *home gym*, generated most interest in 2020 and also during 2022-2023 separately? 
 3.  What are the top 20 countries with the highest interest in workout, which hinges on this keyword search?
 4.  What is the breakdown of the three workout keywords for certain Middle Eastern and South Asian countries (aka. MESA), including Philippines and Singapore?
