@@ -26,7 +26,7 @@ The main goal of these activities is to enable the firm to create unique new dig
 
 ### Data Sources
 
-There were four fundamental datasets leveraged for this analysis as follows:
+There were four fundamental datasets leveraged for this analysis:
 
 - workout.csv
 - three_keywords.csv
