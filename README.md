@@ -68,7 +68,7 @@ Hence, I decided to resort to a function, called **stack()**, to achieve this ta
 df = file.set_index('Week').stack().reset_index()
 ```
 
-Prior to that, I had needed to set the index to our 'Week' column so that I would be able to also group each of these three keywords by the datetime parameter without forfeiting the time parameter.
+Prior to that, I had needed to set the index to our 'Week' column so that I would be able to also group each of these three keywords by the datetime parameter without forfeiting it.
 
 ### Findings
 
