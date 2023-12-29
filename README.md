@@ -87,7 +87,7 @@ The critical analysis results are summarised as follows:
 <img src="https://github.com/OzzyGoylusun/Data-Driven-Product-Management-for-Global-Workout/blob/main/Visuals/Interest%20in%20Type%20of%20Global%20Workouts.png" alt="Global Interest in Type of Workouts">
 </p>
 
-3. **United States** in relative terms showed the highest interest in workouts while **Philippines** globally ranked **the 7th spot** where the firm is based. In addition, almost half of the top 20 countries turned out to be based in Middle East or South Asia (MESA).
+3. **The United States** in relative terms showed the highest interest in workouts while **Philippines** globally ranked **the 7th spot** where the firm is based. In addition, almost half of the top 20 countries turned out to be based in Middle East or South Asia (MESA).
 
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Data-Driven-Product-Management-for-Global-Workout/blob/main/Visuals/Interest%20in%20Workout%20by%20Country.png" alt="Interest in Workout by Country">
