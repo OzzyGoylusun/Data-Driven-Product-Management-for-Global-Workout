@@ -95,7 +95,7 @@ The critical analysis results are summarised as follows:
 
 4. It was fairly interesting to note that, among the other prominent MESA countries in rankings, Philippines came out on top for the population's interest in **home workout**. Nevertheless, the same country ranked the last spot when comes to interest in **home gym**.
    
-5. Linked to **Finding #4** to a certain extent, **Zumba** is the most preferred method of workout in Philippines over the last 5 years, which may also indicate the reason as to why the population living in Philippines work out rather at home than visiting a gym, as shown below:
+5. Linked to **Finding #4** to a certain extent, **Zumba** is the most preferred method of workout in Philippines over the last 5 years, which may also indicate the reason as to why the population living in Philippines works out rather at home than visiting a gym, as shown below:
 
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Python.-Conducting-Market-Analysis-of-Global-Workout-Trends/blob/main/Visuals/Most%20Preferred%20Workout%20in%20Philippines.png" alt="Interest in Workout by Country">
