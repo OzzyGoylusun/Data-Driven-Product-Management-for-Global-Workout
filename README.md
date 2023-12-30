@@ -19,7 +19,7 @@ This data analysis project in Python is intended to conduct a market analysis to
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.-Conducting-Market-Analysis-of-Global-Workout-Trends/blob/main/Visuals/Yoga%20Workout.jpeg"
- alt="Various Workout Types">
+ alt="Various Workout Types" width="600">
 </p>
 
 The main goal of these activities is to enable the firm to create unique new digital products and services for its existing customers and potential users informed by a **data-driven product management strategy.**
