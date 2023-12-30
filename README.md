@@ -78,19 +78,19 @@ The critical analysis results are summarised as follows:
   - However, there is an anomaly observed in year 2020, with another but more powerful spike in global interest in workouts, shortly following the COVID announcement - in **April 2020**.
 
 <p align="center">
-<img src="https://github.com/OzzyGoylusun/Python.-Conducting-Market-Analysis-of-Global-Workout-Trends/blob/main/Visuals/Global%20Interest%20in%20Workouts.png" alt="Global Interest in Workouts">
+<img src="https://github.com/OzzyGoylusun/Python.-Conducting-Market-Analysis-of-Global-Workout-Trends/blob/main/Visuals/Global%20Interest%20in%20Workouts.png" alt="Global Interest in Workouts" width="650">
 </p>
  
 2. During the **peak COVID 2020** period, **the home workouts** had stood out as the most popular workout trend, whereas there was subsequently a global shift in trend towards **the gym workouts** from 2022 onwards.
 
 <p align="center">
-<img src="https://github.com/OzzyGoylusun/Python.-Conducting-Market-Analysis-of-Global-Workout-Trends/blob/main/Visuals/Interest%20in%20Key%20Words%20for%20Workout.png" alt="Global Interest in Type of Workouts">
+<img src="https://github.com/OzzyGoylusun/Python.-Conducting-Market-Analysis-of-Global-Workout-Trends/blob/main/Visuals/Interest%20in%20Key%20Words%20for%20Workout.png" alt="Global Interest in Type of Workouts" width="650">
 </p>
 
 3. **The United States** in relative terms showed the highest interest in workouts while **Philippines** globally ranked **the 7th spot** where the firm is based. In addition, almost half of the top 20 countries turned out to be based in Middle East or South Asia (MESA).
 
 <p align="center">
-<img src="https://github.com/OzzyGoylusun/Data-Driven-Product-Management-for-Global-Workout/blob/main/Visuals/Interest%20in%20Workout%20by%20Country.png" alt="Interest in Workout by Country">
+<img src="https://github.com/OzzyGoylusun/Data-Driven-Product-Management-for-Global-Workout/blob/main/Visuals/Interest%20in%20Workout%20by%20Country.png" alt="Interest in Workout by Country" width="650">
 </p>
 
 4. It was fairly interesting to note that, among the other prominent MESA countries in rankings, Philippines came out on top for the population's interest in **home workout**. Nevertheless, the same country ranked the last spot when comes to interest in **home gym**.
@@ -98,7 +98,7 @@ The critical analysis results are summarised as follows:
 5. Linked to **Finding #4** to a certain extent, **Zumba** is the most preferred method of workout in Philippines over the last 5 years, which may also indicate the reason as to why the population living in Philippines works out rather at home than visiting a gym, as shown below:
 
 <p align="center">
-<img src="https://github.com/OzzyGoylusun/Python.-Conducting-Market-Analysis-of-Global-Workout-Trends/blob/main/Visuals/Popular%20Workouts%20in%20Philippines.png" alt="Popular Workouts in Philippines">
+<img src="https://github.com/OzzyGoylusun/Python.-Conducting-Market-Analysis-of-Global-Workout-Trends/blob/main/Visuals/Popular%20Workouts%20in%20Philippines.png" alt="Popular Workouts in Philippines" width="650">
 </p>
 
 ### Recommendations
